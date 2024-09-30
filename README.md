@@ -73,4 +73,16 @@ services:
 
    <code> Ctrl+X+Y+Enter </code> **İşlemleri ile dosyadı kaydedip çıkıyoruz.**
 
+   ## Son adım Chromium çalıştırma 
 
+```
+   cd $HOME && cd chromium
+
+docker compose up -d
+```
+
+## Artık hazırsınız , şimdi yapmanız gereken şey kendi bilgisayarınızdan sunucuya bağlanmak ve eklentileri kurmak
+```
+http://Sunucu_IP:3010/
+https://Sunucu_IP:3011/
+```
