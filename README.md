@@ -86,3 +86,20 @@ docker compose up -d
 http://Sunucu_IP:3010/
 https://Sunucu_IP:3011/
 ```
+
+
+# Adım 2 eklentileri kurmak!
+
+**Öncelikle tavsiyem bu sunucularda yeni hesap oluşturmanız isteyen kendi hesabınıda kullanabilir ama ne olur ne olmaz yeni hesap kurmak daha sağlıklı olur.**
+
+[Nodepay](https://app.nodepay.ai/register?ref=OcK6UeIDXtTJaBN)
+
+[UpNetwork](https://points.upnetwork.xyz/?request=122473)
+
+[Gradient](https://app.gradient.network/signup?code=OKZ66P)
+
+[Block mesh](https://app.blockmesh.xyz/register?invite_code=rove)
+
+[Teneo](https://teneo.pro/community-node) **Giriş kodu : GRRqs**
+
+
